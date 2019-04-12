@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Esta es una calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Jesus Estrada <jesuestrada@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  }
+}
