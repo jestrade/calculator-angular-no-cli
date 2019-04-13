@@ -9,7 +9,7 @@ module.exports = {
   },
   entry: {
     polyfills: "./src/polyfills.ts",
-    main: "./src/app.ts"
+    main: "./src/main.ts"
   },
   devtool: "source-map",
   devServer: {
